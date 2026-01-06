@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# ChromeDriver binaries
+chromedriver-win64/
+chromedriver.exe
+chromedriver.zip
+*.zip
+
+# Test outputs and logs
+output.txt
+test-output.txt
+test-driver.js
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+temp/
