@@ -121,4 +121,6 @@ Increase the timeout in `.mocharc.json`:
 - mocha (^10.8.2)
 - chai (^4.5.0)
 
-
+## Universitiy Project
+University Džemal Bijedić of Mostar
+Team: Sajra Fajić, Tarik Kreso, Medina Krhan
